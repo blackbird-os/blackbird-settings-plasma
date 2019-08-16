@@ -1,4 +1,4 @@
-[Document]
+[KTextEditor Document]
 Allow End of Line Detection=true
 BOM=false
 Backup Flags=0
@@ -30,18 +30,18 @@ Tab Width=8
 Word Wrap=false
 Word Wrap Column=80
 
-[Editor]
+[KTextEditor Editor]
 Encoding Prober Type=1
 Fallback Encoding=ISO-8859-15
 
-[Renderer]
+[KTextEditor Renderer]
 Animate Bracket Matching=false
 Schema=Normal
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
 Word Wrap Marker=false
 
-[View]
+[KTextEditor View]
 Allow Mark Menu=true
 Auto Center Lines=0
 Auto Completion=true
