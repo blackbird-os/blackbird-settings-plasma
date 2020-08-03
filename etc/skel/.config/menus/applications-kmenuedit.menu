@@ -90,6 +90,7 @@
    <Filename>kvantummanager.desktop</Filename>
    <Filename>hp-uiscan.desktop</Filename>
    <Filename>qvidcap.desktop</Filename>
+   <Filename>lstopo.desktop</Filename>
   </Include>
   <Exclude>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
@@ -336,6 +337,7 @@
    <Filename>imagewriter.desktop</Filename>
    <Filename>org.kde.isoimagewriter.desktop</Filename>
    <Filename>grub-customizer.desktop</Filename>
+   <Filename>lstopo.desktop</Filename>
   </Exclude>
   <Menu>
    <Name>More</Name>
@@ -351,11 +353,11 @@
   </Include>
   <Layout>
    <Merge type="files"/>
-   <Filename>org.gnome.Software.desktop</Filename>
-   <Filename>gnome-software-local-file.desktop</Filename>
+   <Filename>org.kde.discover.desktop</Filename>
+   <Filename>org.kde.partitionmanager.desktop</Filename>
+   <Filename>timeshift-gtk.desktop</Filename>
    <Filename>org.kde.dolphin.desktop</Filename>
    <Filename>org.kde.kinfocenter.desktop</Filename>
-   <Filename>org.kde.PartitionManager.desktop</Filename>
    <Filename>org.kde.konsole.desktop</Filename>
    <Filename>org.kde.ksysguard.desktop</Filename>
    <Filename>org.kde.kwalletmanager5.desktop</Filename>
